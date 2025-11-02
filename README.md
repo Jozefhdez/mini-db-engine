@@ -2,6 +2,10 @@
 
 In-memory database engine with B-Tree indexing and query planning, implemented in Python.
 
+> NOTE: Educational / Toy project
+>
+> This repository implements a small, educational database engine for learning and experimentation.
+
 ## Features
 
 * Create tables with optional indexed columns
