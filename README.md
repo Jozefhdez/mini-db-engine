@@ -13,3 +13,8 @@ In-memory database engine with B-Tree indexing and query planning, implemented i
 * B-Tree index for fast lookups on primary keys
 * Query planner chooses between indexed lookup or full table scan
 * Persistent storage using JSON
+
+### Learning Resources
+
+- [Build-a-Database with Python - Breaking down the abstractions ](https://www.youtube.com/watch?v=Ay9MNXXURBc)
+- [B-Tree Implementation](https://www.youtube.com/watch?v=CWI6sDEdBLM)
